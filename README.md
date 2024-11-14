@@ -46,5 +46,5 @@ Create custom study decks, test your knowledge, and track your progress with an 
 3. Start creating your study decks!
 
 ## **📝 License**
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [License] file for details.
 
